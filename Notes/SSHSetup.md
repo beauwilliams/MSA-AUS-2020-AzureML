@@ -9,6 +9,7 @@ Essentially when Microsoft wants to talk to you, it will use your public key as 
 
 _It is however theorectically possible to do it within a reasonable amount of time using shors prime factoring algorithm on a quantum computer, but we don't yet have one powerful enough!_
 
+### Step 1: Run the below command
 `ssh-keygen -m PEM -t rsa -b 4096` Note: Remember to give it a meaningful name
 
 ## Copy the public key you have just generated to your clipboard
@@ -28,5 +29,8 @@ _I'll show you what I mean_
 We are going to use `cat` to copy the contents of the file, then we are going to "pipe" the output of that command _into_ the `pbcopy` command
 
 Like so.. we will generate data from the first command, and pass it into the second command, here `pbcopy`
+
+### Step 2: Run the below command
 `cat <the-name-you-gave-the-ssh-key>.pub | pbcopy`
-Now we have copied the contents of that file to our clipboard :grin:
+
+Now we have copied the contents of that file (our public SSH key) to our clipboard :grin:
