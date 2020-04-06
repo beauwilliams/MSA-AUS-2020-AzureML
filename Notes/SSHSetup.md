@@ -4,7 +4,7 @@ When we are creating our compute on AzureML, we want to enable SSH access, just 
 
 ## Create an ssh key on your machine
 
-Here we are creating a 4096 bit RSA public-private encryption key pair in the .pem fileformat
+Here we are creating a 4096 bit RSA public-private encryption key pair in the pem format.
 Essentially when Microsoft wants to talk to you, it will use your public key as a 'seed' to encrypt the traffic it is sending you. With the private key you have generated earlier, it is trivial to decrypt the traffic azure is sending you. Otherwise, without this private key one would have to crack the 4096bit RSA encryption, which might take a while..!
 `ssh-keygen -m PEM -t rsa -b 4096` Note: Remember to give it a name
 
