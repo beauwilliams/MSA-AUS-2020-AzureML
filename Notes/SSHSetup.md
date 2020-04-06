@@ -13,7 +13,7 @@ Essentially when Microsoft wants to talk to you, it will use your public key as 
 Now we want to copy that public key to our clipboard so that we can paste it into the AzureML dashboard
 What we will use is the `pbcopy` function in our terminal
 The `pbcopy` command will need some text input, so that it can perform its function
-You might recognise the terms `stdin` and `stdout`, in plain terms they refer to standard-in and standard-out
+You might recognise the terms `stdin` and `stdout`, in plain terms they refer to standard-in and standard-out.
 In a programming langauge, you might want to print some text to your terminal such as "Hello World!"
 
 In order to do this, we must interface with a real life computer, but luckily we have a programming language with a built in module, such as the println() function, so we need not worry! We can simply pass text into this function.The rest of the complexity is abstracted from us. No need to learn bytecode. Woo!
@@ -22,7 +22,7 @@ So.. in other words, stdin is a functionality that allows us to pass inputs and 
 
 _I'll show you what I mean_
 
-We are going to use `cat` to copy the contents of the file, then we are going to "pipe" the output of that commans _into_ the `pbcopy` command
+We are going to use `cat` to copy the contents of the file, then we are going to "pipe" the output of that command _into_ the `pbcopy` command
 
 Like so.. 
 `cat <the-name-you-gave-the-ssh-key>.pub | pbcopy`
