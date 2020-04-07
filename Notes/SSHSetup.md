@@ -52,6 +52,15 @@ Like so.. we will generate data from the first command, and pass it into the sec
 
 Now we have copied the contents of that file (our public SSH key) to our clipboard :grin:
 
-# Alternatively, visit this page 
+## Load the SSH key into your SSH Agent
+
+When we want to connect to our AzureML compute, we need to provide the SSH key in order to decrypt the traffic. What we will do with `ssh-add` is load that file up so it is ready when we try to connect to our AzureML instance.
+
+### Step 4: Run this command
+
+`ssh-add ~/.ssh/nameofyoursshkey`
+
+# Alternatively, visit this page for video instructions 
 
 `https://docs.microsoft.com/en-gb/azure/virtual-machines/linux/mac-create-ssh-keys`
+
