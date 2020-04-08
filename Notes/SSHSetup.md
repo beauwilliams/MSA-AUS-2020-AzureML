@@ -1,3 +1,9 @@
+# These instructions are for Mac/Linux users only. Windows users please visit this page for Microsoft provided instructions
+
+
+https://docs.microsoft.com/en-gb/azure/virtual-machines/linux/mac-create-ssh-keys
+
+
 # Setting up SSH access to your compute
 
 When we are creating our compute on AzureML, we want to enable SSH access, just incase we need it.
@@ -62,7 +68,4 @@ When we want to connect to our AzureML compute, we need to provide the SSH key i
 
 `ssh-add ~/.ssh/nameofyoursshkey`
 
-# Alternatively, visit this page for video instructions 
-
-`https://docs.microsoft.com/en-gb/azure/virtual-machines/linux/mac-create-ssh-keys`
 
