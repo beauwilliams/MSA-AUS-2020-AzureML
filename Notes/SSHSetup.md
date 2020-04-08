@@ -67,4 +67,12 @@ When we want to connect to our AzureML compute, we need to provide the SSH key i
 
 `ssh-add ~/.ssh/nameofyoursshkey`
 
+## Paste SSH key into Azure
+
+## SSH into the compute once it has spun up
+
+## Update Scikit learn
+
+## Terminate the session
+
 
