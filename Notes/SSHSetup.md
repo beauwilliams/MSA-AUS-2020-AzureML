@@ -1,8 +1,7 @@
 # These instructions are for Mac/Linux users only. Windows users please visit this page for Microsoft provided instructions
 
 
-https://docs.microsoft.com/en-gb/azure/virtual-machines/linux/mac-create-ssh-keys
-
+https://docs.microsoft.com/en-gb/azure/virtual-machines/linux/ssh-from-windows
 
 # Setting up SSH access to your compute
 
