@@ -6,7 +6,9 @@ Note: These instructions are for Mac/Linux users only (+Windows users using subs
 ## Change to the directory that stores your ssh keys
 
 What we are going to do here is use the cd "change directory" command to open up the folder that stores the ssh key on our computer.
-Make a note of the `~` character here, this is an old unix convention, on very early computers used at Berkeley a.k.a BSD there was a key labelled HOME in the very top right corner of the keyboard, which was also used if you wanted type `~`. That keyboard design inspired the convention that `~` would mean "home" on UNIX based systems. 
+Make a note of the `~` character here, this is an old unix convention, on very early computers used at Berkeley a.k.a BSD (specifically the Lear-Siegler ADM-3A computer) there was a key labelled HOME in the very top right corner of the keyboard, which was also used if you wanted type `~`. That keyboard design inspired the convention that `~` would mean "home" on UNIX based systems. 
+
+![](https://rollmops.files.wordpress.com/2006/04/Lear_Siegler-ADM3A_1805.jpg)
 
 _What is home?_
 Home is your home directory, such as /Users/yourname/
