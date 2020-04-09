@@ -38,9 +38,9 @@ _It is however theorectically possible to do it within a reasonable amount of ti
 ## Copy the public key you have just generated to your clipboard
 
 
-Now we want to copy that public key to our clipboard so that we can paste it into the AzureML dashboard
-What we will use is the `pbcopy` function in our terminal
-The `pbcopy` command will need some text input, so that it can perform its function
+Now we want to copy that public key to our clipboard so that we can paste it into the AzureML dashboard.
+What we will use is the `pbcopy` function in our terminal.
+The `pbcopy` command will need some text input, so that it can perform its function.
 You might recognise the terms `stdin` and `stdout`, in plain terms they refer to standard-in and standard-out.
 In a programming langauge, you might want to print some text to your terminal such as "Hello World!"
 
@@ -50,7 +50,7 @@ So.. in other words, stdin is a functionality that allows us to pass inputs and 
 
 _I'll show you what I mean_
 
-We are going to use `cat` to copy the contents of the file, then we are going to "pipe" the output of that command _into_ the `pbcopy` command
+We are going to use `cat` to copy the contents of the file, then we are going to "pipe" the output of that command _into_ the `pbcopy` command.
 
 Like so.. we will generate data from the first command, and pass it into the second command, here `pbcopy`
 
