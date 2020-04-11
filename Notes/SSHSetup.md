@@ -73,7 +73,7 @@ When we want to connect to our AzureML compute, we need to provide the SSH key i
 
 ## SSH into the compute once it has spun up
 
-_Paste the command highlighted in the below image into your terminal_
+_Copy the SSH command found in the azure portal as per the below image, NOTE not actually the one in the below image, but the one from this page in your own azure portal_
 ![](https://i.ibb.co/27XjHkK/Screen-Shot-2020-04-08-at-7-21-50-pm.png)
 
 ## Update Scikit learn
