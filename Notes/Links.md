@@ -2,14 +2,13 @@
 
 ## Link to MSA Github
 
-![MSA Github](https://github.com/AUMSA/2020-MSA-content)
+[MSA Github](https://github.com/AUMSA/2020-MSA-content)
 
 ## Link to Azure
 
 _From this portal we can access each component of the demo, from setting up a resource, creating your workspace and setting up a compute. Once this is done we can go ahead and start coding!_
 
-![Azure Portal](https://portal.azure.com/#home)
-`https://portal.azure.com/#home`
+[Azure Portal](https://portal.azure.com/#home)
 
 ## Set up your local env
 
