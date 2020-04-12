@@ -20,3 +20,10 @@ like so
 
 [Github Issue](https://github.com/MicrosoftDocs/azure-docs/issues/15893)
 
+## Microsoft also has another fix (Note mac osx catalina has zsh by default)
+
+use `\` backslashes to disable globbing like so 
+
+Starting with macOS Catalina, zsh (Z shell) is the default login shell and interactive shell. In zsh, use the following command which escapes brackets with "\" (backslash):
+
+`pip install --upgrade azureml-sdk\[notebooks,automl\]`
