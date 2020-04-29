@@ -1,5 +1,7 @@
 # Azure ML Demo Agenda
 
+![Banner](/banner.jpeg)
+
 ## What will be covered
 
 - [ ] Introduction to AzureML - What it is, what it isn't, why it is useful
