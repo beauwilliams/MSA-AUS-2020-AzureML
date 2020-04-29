@@ -6,4 +6,6 @@ In this repository I have provided some links, and instructions to setting up SS
 
 Thank you and keep on coding!! :raised_hands:
 
-Visit the project page here: https://beauwilliams.github.io/MSA-AUS-2020-AzureML
+Visit the project page here: [Project Page](https://beauwilliams.github.io/MSA-AUS-2020-AzureML)
+
+Watch the workshop recording here: [Workshop Recording](https://youtu.be/kKIXASPVOAk)
