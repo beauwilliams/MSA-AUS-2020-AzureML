@@ -1,0 +1,101 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "PI7V2o5qpo3w1vQBi8KnzQ=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/content/theme.ts",
+      "hash": "vzvzpHGRF2W3fOhtEtMWXQ=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "ko6Jau31GfR0stwF6cCndQ=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "C8+h9W4GbfvjOBJugz90Ww=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "QKD/DQY3SfE9S9ymRLfxJQ=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "SXWIhdOIOMSUimJJzWmReg=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "2eRXzbb1wDsVpmzixeQpdg=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "OUtKoEgWIAp8TSyAY3uzuA=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "YDQTIM4vbZmejG8PHmcQkA=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "544g2WUMQ2bXAIdnjfP+xQ=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "iEkR7vsmkKDXEv99OTHsZw=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "DPNFUmgbmG4sVGjLOpObcQ=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "p7q794Ss02ig7oiEoVjxrw=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "ZxxSYPNrCEmBEd9vHmPDxA=="
+    },
+    {
+      "name": "GithubSearch",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "2eEveRs4JmCAvb9B6+nI0g=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "YJYfvSMDiaizwQw2i25OpQ=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "bnBU6jaU8b++OHPqFfb74Q=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "/gFEszpGlmsHLp5acvdDpQ=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "a9tUHMoUp8BRHuJ3Fud00w=="
+  }
+}
