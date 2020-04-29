@@ -4,7 +4,7 @@
 
 In this repository you will find some resources for the 2020 MSA Program
 
-- SSH Setup Guide for Azure
+- SSH Setup Guide for AzureML
 - AzureML Notebook Bugfix
 - FYI For ZSH Users
 - Further Reading Links
