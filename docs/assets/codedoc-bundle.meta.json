@@ -64,6 +64,11 @@
       "name": "postNavSearch",
       "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
       "hash": "p7q794Ss02ig7oiEoVjxrw=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-AzureML/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
+      "hash": "It7V6HwNv6PcBYCqankgfA=="
     }
   ],
   "components": [
